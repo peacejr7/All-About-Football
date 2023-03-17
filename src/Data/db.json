@@ -1,0 +1,180 @@
+{
+    "Teams": [
+      {
+        "id": 1,
+        "name": "Manchester United",
+        "Stadium": "Old Trafford",
+        "Country": "England",
+        "City": "London",
+        "Manager": "Eric Ten Hag",
+        "League": "English Premier League",
+        "Founded": 1878,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+      },
+      {
+        "id": 2,
+        "name": "Chelsea FC",
+        "Stadium": "Stamford Bridge",
+        "Country": "England",
+        "City": "London",
+        "Manager": "Graham Potter",
+        "League": "English Premier League",
+        "Founded": 1905,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg"
+      },
+      {
+        "id": 3,
+        "name": "Manchester City",
+        "Stadium": "Etihad",
+        "Country": "England",
+        "City": "Manchester",
+        "Manager": "Pep Guardiola",
+        "League": "English Premier League",
+        "Founded": 1880,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
+      },
+      {
+        "id": 4,
+        "name": "Liverpool",
+        "Stadium": "Anifield",
+        "Country": "England",
+        "City": "Everton",
+        "Manager": "Jurgen Klop",
+        "League": "English Premier League",
+        "Founded": 1802,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
+      },
+      {
+        "id": 5,
+        "name": "Arsenal",
+        "Stadium": "Emirates Stadium",
+        "Country": "England",
+        "City": "London",
+        "Manager": "Mikel Arteta",
+        "League": "English Premier League",
+        "Founded": 1886,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+      },
+      {
+        "id": 6,
+        "name": "Real Madrid",
+        "Stadium": "Santiago Bernabeu",
+        "Country": "Spain",
+        "City": "Mdrid",
+        "Manager": "Carlo Ancelotti",
+        "League": "La Liga Santander",
+        "Founded": 1902,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
+      },
+      {
+        "id": 7,
+        "name": "FC Barcelona",
+        "Stadium": "Spotify Camp Nou",
+        "Country": "Spain",
+        "City": "Barcelona",
+        "Manager": "Xavi Hernandes",
+        "League": "La Liga Santander",
+        "Founded": 1899,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg"
+      },
+      {
+        "id": 8,
+        "name": "Bayern Munchen",
+        "Stadium": "Arianz Arena",
+        "Country": "German",
+        "City": "Munich",
+        "Manager": "Julian Nagglesman",
+        "League": "Bundesliga",
+        "Founded": 1900,
+        "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg"
+      },
+      {
+        "id": 9,
+        "name": "Juventus",
+        "Stadium": "Arianz stadium",
+        "Country": "Italy",
+        "City": "Turin",
+        "Manager": "Massimilliano Allegri",
+        "League": "Serie A",
+        "Founded": 1897,
+        "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Juventus_FC_2017_icon_%28black%29.svg"
+      },
+      {
+        "id": 10,
+        "name": "Chelsea FC",
+        "Stadium": "Stamford Bridge",
+        "Country": "England",
+        "City": "London",
+        "Manager": "Graham Potter",
+        "League": "English Premier League",
+        "Founded": 1905,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg"
+      },
+      {
+        "id": 11,
+        "name": "Manchester City",
+        "Stadium": "Etihad",
+        "Country": "England",
+        "City": "Manchester",
+        "Manager": "Pep Guardiola",
+        "League": "English Premier League",
+        "Founded": 1880,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
+      },
+      {
+        "id": 12,
+        "name": "Liverpool",
+        "Stadium": "Anifield",
+        "Country": "England",
+        "City": "Everton",
+        "Manager": "Jurgen Klop",
+        "League": "English Premier League",
+        "Founded": 1802,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg"
+      },
+      {
+        "id": 13,
+        "name": "Manchester United",
+        "Stadium": "Old Trafford",
+        "Country": "England",
+        "City": "London",
+        "Manager": "Eric Ten Hag",
+        "League": "English Premier League",
+        "Founded": 1878,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+      },
+      {
+        "id": 14,
+        "name": "Chelsea FC",
+        "Stadium": "Stamford Bridge",
+        "Country": "England",
+        "City": "London",
+        "Manager": "Graham Potter",
+        "League": "English Premier League",
+        "Founded": 1905,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg"
+      },
+      {
+        "id": 15,
+        "name": "Ac Milan",
+        "Stadium": "San Siro",
+        "Country": "Itali",
+        "City": "Milan",
+        "Manager": "Pep Guardiola",
+        "League": "Serie A",
+        "Founded": 1880,
+        "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/195px-Logo_of_AC_Milan.svg.png"
+      },
+      {
+        "id": 16,
+        "name": "Club Atlético de Madrid",
+        "Stadium": "Estadio Metropolitano",
+        "Country": "England",
+        "City": "Everton",
+        "Manager": "Jurgen Klop",
+        "League": "English Premier League",
+        "Founded": 1802,
+        "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Atletico_Madrid_2017_logo.svg/225px-Atletico_Madrid_2017_logo.svg.png"
+      }
+    ]
+  }
